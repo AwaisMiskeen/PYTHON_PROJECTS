@@ -1,4 +1,4 @@
-# Snake , Water , Gun game.
+# Rock,Paper, Sizer game.
 '''
 -1 for Rock
 0 for Paper
