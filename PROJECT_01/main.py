@@ -26,7 +26,7 @@ print(f"You chose {reversdict[you]}\n Computer chose {reversdict[computer]}")
 if(computer == you):
     print("Game Draw")
 else:
-    if(computer == -1 and you == 0): #
+    if(computer == -1 and you == 0): 
         print("You Win!")
     elif(computer == -1 and you == 1):
         print("You Lose!")
